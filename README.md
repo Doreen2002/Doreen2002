@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doreen Mwape
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning PYTHON,REACT AND REACT NATIVE
+- 🌱 I’m currently learning python,react and react native
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me doreenmwapekatebe8@gmail.com
 
