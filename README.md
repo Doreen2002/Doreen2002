@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Doreen Mwape
 - 👀 I’m interested in programming
-- I work as a Junior Inovvation Associate
-- 🌱 I’m currently learning python,frappe, erpnext and vue js
+- 💡 I work as a Junior Innovation Associate
+- 🌱 I’m currently learning Python,Frappe, Erpnext 
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me doreenmwapekatebe8@gmail.com
 
