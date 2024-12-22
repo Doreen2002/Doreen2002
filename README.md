@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Doreen Mwape
 - 👀 I’m interested in programming
 - 🌱 I’m currently working on Frappe and Erpnext projects 
-- 💞️ I’m looking to collaborate on AI projects
+- 💞️ I’m looking to explore Data Science with Python
 - 📫 How to reach me doreenmwapekatebe8@gmail.com
 
 <!---
