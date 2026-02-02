@@ -1,6 +1,6 @@
-- 👋 Hi, Doreen Mwape(AKA Dodo) here
+- 👋 Hi, Doreen Mwape(Dodo) here
 - 👀 I’m passionate about problem-solving
-- 🌱 I’m currently working on Frappe, Erpnext projects & Flutter projects
+- 🌱 I’m currently working on Frappe, Erpnext, & Flutter projects
 - 💞️ I’m looking to explore Data Science with Python
 - 📫 How to reach me doreenmwapekatebe8@gmail.com
 
